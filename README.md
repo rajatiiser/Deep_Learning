@@ -1,3 +1,7 @@
+# Deep Learning Projects
+
+This repository contains mini-projects completed as part of my **Deep Learning** coursework and self-learning.
+
 ## Projects
 
 ### 1. Feed Forward Neural Network (FNN)
