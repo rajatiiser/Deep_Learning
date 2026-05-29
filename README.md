@@ -1,0 +1,10 @@
+## Projects
+
+### 1. Feed Forward Neural Network (FNN)
+📁 [Website Phishing Detection](./Feed_Forward_Neural_Network)
+
+### 2. Convolutional Neural Network (CNN)
+📁 [Fashion-MNIST Image Classification](./CNN_Fashion_MNIST_Classification)
+
+### 3. RNN vs LSTM
+📁 [Text Classification using 20 Newsgroups](./RNN_vs_LSTM_Text_Classification)
