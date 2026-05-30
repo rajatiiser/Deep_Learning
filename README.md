@@ -11,5 +11,5 @@ This repository contains mini-projects completed as part of my **Deep Learning**
 📁 [Fashion-MNIST Image Classification](./Convolutional Neural Network (CNN))
 
 ### 3. RNN vs LSTM
-📁 [Text Classification using 20 Newsgroups](./RNN v sLSTM)
+📁 [Text Classification using 20 Newsgroups](./RNN vs LSTM)
 
