@@ -8,7 +8,8 @@ This repository contains mini-projects completed as part of my **Deep Learning**
 📁 [Website Phishing Detection](./Feed_Forward_Neural_Network)
 
 ### 2. Convolutional Neural Network (CNN)
-📁 [Fashion-MNIST Image Classification](./CNN_Fashion_MNIST_Classification)
+📁 [Fashion-MNIST Image Classification](./Convolutional Neural Network (CNN))
 
 ### 3. RNN vs LSTM
-📁 [Text Classification using 20 Newsgroups](./RNN_vs_LSTM_Text_Classification)
+📁 [Text Classification using 20 Newsgroups](./RNN v sLSTM)
+
